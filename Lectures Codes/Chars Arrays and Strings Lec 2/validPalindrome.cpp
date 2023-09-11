@@ -24,7 +24,7 @@ public:
                 j--;
             }
         }
-        return true;
+        return true; //0 removal wale palindrome ko darsha rha h
     }
 };
 
